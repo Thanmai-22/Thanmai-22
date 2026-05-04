@@ -4,6 +4,8 @@
 
 Currently at Pycube, where I design AI agents and data infrastructure for hospital asset tracking across 22M+ medical documents. My work focuses on making LLMs actually useful in production: agents that reason over real data, retrieve the right information, and take action autonomously.
 
+---
+
 ## What I build
 
 **Agentic AI Systems**
@@ -18,32 +20,41 @@ I built evaluation frameworks that benchmark hallucination, coherence, and relev
 **Data Infrastructure**
 Real-time streaming with Kafka, Spark, and TimescaleDB. ML-based anomaly detection. Container orchestration. CI/CD pipelines on AWS.
 
+---
+
 ## Featured projects
 
 | Project | What it does |
-|---------|-------------|
-| [Atlas of Assets Assistant](https://github.com/Thanmai-22/Atlas_of_Assests_Assistant) | AI-powered agent for hospital asset tracking, querying, and management |
-| [Mini Container Orchestration Simulator](https://github.com/Thanmai-22/Mini-Container-Orchestration-Simulator) | Simulates container scheduling, deployment, and scaling from scratch in Python |
-| [Atlas of Assets](https://github.com/Thanmai-22/Atlas_of_assests) | Core asset management and tracking system |
+|---|---|
+| [Hospital Asset AI Agent](https://github.com/Thanmai-22/MCP-email-agent) | Autonomous email agent using Claude, LangGraph, and MCP servers. Classifies intent, queries MySQL + ChromaDB in parallel, validates answers, and sends replies via Outlook. |
+| [Real-Time Infrastructure Monitoring Platform](https://github.com/Thanmai-22/Real-Time-Infrastructure-Monitoring-and-Analytics-Platform) | Kafka streaming pipeline with 4-strategy ML anomaly detection (Isolation Forest), TimescaleDB, FastAPI, and live WebSocket dashboard. |
+| [Mini Container Orchestration Simulator](https://github.com/Thanmai-22/Mini-Container-Orchestration-Simulator) | Kubernetes-inspired scheduler with 4 pluggable strategies, benchmarked to 56K pods/sec. Full pod lifecycle, node failure recovery, real-time dashboard. |
+| [Atlas of Assets Assistant](https://github.com/Thanmai-22/Atlas_of_Assests_Assistant) | AI-powered agent for hospital asset tracking, querying, and management. |
+
+---
 
 ## Tech stack
 
-**Agentic AI:** LangGraph, LangChain, Claude, MCP Servers, Tool Use, Function Calling
+**Agentic AI:** LangGraph · LangChain · Claude · MCP Servers · Tool Use · Function Calling
 
-**LLMs & NLP:** GPT-4, Claude, Llama, Mistral, HuggingFace Transformers, PyTorch
+**LLMs & NLP:** GPT-4 · Claude · Llama · Mistral · HuggingFace Transformers · PyTorch
 
-**Search & Retrieval:** ChromaDB, FAISS, Pinecone, Vector Embeddings, RAG, BM25
+**Search & Retrieval:** ChromaDB · FAISS · Pinecone · Vector Embeddings · RAG · BM25
 
-**Data Engineering:** Python, SQL, Spark, Kafka, Airflow, TimescaleDB
+**Data Engineering:** Python · SQL · Spark · Kafka · Airflow · TimescaleDB
 
-**Infrastructure:** Docker, Kubernetes, AWS (SageMaker, Lambda, S3), Terraform, CI/CD
+**Infrastructure:** Docker · Kubernetes · AWS (SageMaker · Lambda · S3) · Terraform · CI/CD
+
+---
 
 ## Background
 
-M.S. Data Science, University of Maryland Baltimore County (UMBC)
-B.Tech ECE, SCSVMV University
+M.S. Data Science — University of Maryland Baltimore County (UMBC)
+B.Tech ECE — SCSVMV University
+
+---
 
 ## Links
 
 - [Portfolio](https://thanmai-22.github.io/Thanmai_Portfolio/)
-- [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)
+- [LinkedIn](https://www.linkedin.com/in/sai-thanmai-peddader-pally-8110721b6/)
