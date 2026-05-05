@@ -26,7 +26,7 @@ Real-time streaming with Kafka, Spark, and TimescaleDB. ML-based anomaly detecti
 
 | Project | What it does |
 |---|---|
-| [Hospital Asset AI Agent](https://github.com/Thanmai-22/MCP-email-agent) | Autonomous email agent using Claude, LangGraph, and MCP servers. Classifies intent, queries MySQL + ChromaDB in parallel, validates answers, and sends replies via Outlook. |
+| [Hospital Asset AI Agent](https:// github.com/Thanmai-22/Langgraph-email-agent) | Autonomous email agent using Claude, LangGraph, and MCP servers. Classifies intent, queries MySQL + ChromaDB in parallel, validates answers, and sends replies via Outlook. |
 | [Real-Time Infrastructure Monitoring Platform](https://github.com/Thanmai-22/Real-Time-Infrastructure-Monitoring-and-Analytics-Platform) | Kafka streaming pipeline with 4-strategy ML anomaly detection (Isolation Forest), TimescaleDB, FastAPI, and live WebSocket dashboard. |
 | [Mini Container Orchestration Simulator](https://github.com/Thanmai-22/Mini-Container-Orchestration-Simulator) | Kubernetes-inspired scheduler with 4 pluggable strategies, benchmarked to 56K pods/sec. Full pod lifecycle, node failure recovery, real-time dashboard. |
 | [Atlas of Assets Assistant](https://github.com/Thanmai-22/Atlas_of_Assests_Assistant) | AI-powered agent for hospital asset tracking, querying, and management. |
